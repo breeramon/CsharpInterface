@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\bin\Debug\net6.0\CsharpArquivos.exe
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\bin\Debug\net6.0\CsharpArquivos.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\bin\Debug\net6.0\CsharpArquivos.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\bin\Debug\net6.0\CsharpArquivos.dll
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\bin\Debug\net6.0\CsharpArquivos.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.dll
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\refint\CsharpArquivos.dll
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\CsharpArquivos.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# ESTUDOS\ESTUDO BASICO Csharp\CsharpArquivos\CsharpArquivos\obj\Debug\net6.0\ref\CsharpArquivos.dll
